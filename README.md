@@ -1,19 +1,22 @@
 <!-- ============================ HERO ============================ -->
-<a href="https://github.com/ArjunaNagarjuna">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Nagarjuna%20M&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Java%20Developer%20%7C%20AI%20%26%20ML&descSize=20&descAlignY=58&descAlign=50&animation=fadeIn" alt="Nagarjuna M" />
-</a>
+<!-- ============================ HERO ============================ -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2C9DF2&center=true&vCenter=true&width=720&lines=Software+Developer+Intern+%40+Tap+Academy;Building+scalable%2C+real-world+software;Java+%7C+Full-Stack+%7C+Machine+Learning;Turning+ideas+into+intelligent+products" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24&text=Nagarjuna%20M&fontSize=65&fontAlignY=38&desc=Software%20Engineer%20|%20Java%20Developer%20|%20AI%20and%20Machine%20Learning&descAlignY=58&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nagarjuna-m-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/ArjunaNagarjuna"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:nagarjunam2arjuna@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ArjunaNagarjuna&label=Profile%20Views&color=2C9DF2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Intelligent+Software+Solutions;Java+Developer+%7C+AI+%26+Machine+Learning;Full-Stack+Development+Enthusiast;Problem+Solver+%7C+Continuous+Learner;Turning+Ideas+Into+Real+Products" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nagarjuna-m-">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ArjunaNagarjuna">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ArjunaNagarjuna&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <!-- ============================ ABOUT ============================ -->
@@ -130,28 +133,6 @@ mindset:     Continuous Learner · Problem Solver · Product Builder
     </td>
   </tr>
 </table>
-
----
-
-<!-- ============================ STATS ============================ -->
-## &nbsp;⟡&nbsp; GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ArjunaNagarjuna&show_icons=true&count_private=true&hide_border=true&title_color=2C9DF2&icon_color=2C9DF2&text_color=9ca3af&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunaNagarjuna&hide_border=true&background=0d1117&stroke=2C9DF2&ring=2C9DF2&fire=2C9DF2&currStreakLabel=2C9DF2&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunaNagarjuna&layout=compact&hide_border=true&title_color=2C9DF2&text_color=9ca3af&bg_color=0d1117&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunaNagarjuna&bg_color=0d1117&color=2C9DF2&line=2C9DF2&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArjunaNagarjuna&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=2C9DF2" alt="Trophies" />
-</p>
 
 ---
 
