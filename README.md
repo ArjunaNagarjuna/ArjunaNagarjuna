@@ -1,5 +1,5 @@
 <!-- ============================ HERO ============================ -->
-<!-- ============================ HERO ============================ -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24&text=Nagarjuna%20M&fontSize=65&fontAlignY=38&desc=Software%20Engineer%20|%20Java%20Developer%20|%20AI%20and%20Machine%20Learning&descAlignY=58&animation=fadeIn&fontColor=ffffff" width="100%" />
@@ -25,49 +25,40 @@
   <img src="https://img.shields.io/badge/Problem%20Solver-203A43?style=for-the-badge" />
 </p>
 <!-- ============================ ABOUT ============================ -->
-##  ⟡  About Me
 
-class NagarjunaM {
+## About Me
 
-    constructor() {
-        this.role = "Software Developer Intern @ Tap Academy";
-        this.location = "Bengaluru, India";
+```java
+public class NagarjunaM {
 
-        this.education = {
-            degree: "B.E. Artificial Intelligence & Machine Learning",
-            cgpa: "8.4"
-        };
+    private final String role =
+        "Software Developer Intern @ Tap Academy";
 
-        this.techStack = [
-            "Java",
-            "Python",
-            "SQL",
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ];
+    private final String location =
+        "Bengaluru, India";
 
-        this.interests = [
-            "Full-Stack Development",
-            "Machine Learning",
-            "AI Applications"
-        ];
+    private final String education =
+        "B.E. Artificial Intelligence & Machine Learning (CGPA: 8.4)";
 
-        this.currentlyLearning = [
-            "Advanced Java",
-            "System Design",
-            "REST APIs"
-        ];
-    }
+    private final String[] skills = {
+        "Java", "Python", "SQL",
+        "HTML", "CSS", "JavaScript"
+    };
 
-    getGoal() {
+    private final String[] interests = {
+        "Full-Stack Development",
+        "Machine Learning",
+        "AI Applications"
+    };
+
+    public String goal() {
         return "Build scalable software products and intelligent AI systems";
     }
 }
+```
 
-const developer = new NagarjunaM();
+>  Passionate about transforming ideas into real-world software products through **Java Development**, **Artificial Intelligence**, and **Full-Stack Engineering**.
 
-Passionate about transforming ideas into real-world software products through Java Development, Artificial Intelligence, and Full-Stack Engineering.
 
 
 <!-- ============================ TECH STACK ============================ -->
