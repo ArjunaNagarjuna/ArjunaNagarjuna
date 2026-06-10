@@ -1,22 +1,33 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    NAGARJUNA M — GITHUB PROFILE                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- ANIMATED WAVE BANNER — deep space gradient with name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a1a3e,60:2d1b69,100:0f3460&height=220&section=header&text=Nagarjuna%20M&fontSize=65&fontColor=e0d7ff&fontAlignY=40&fontAlign=50&desc=Software%20Engineer%20%E2%80%82%7C%E2%80%82Java%20Developer%20%E2%80%82%7C%E2%80%82AI%20%26%20ML%20Engineer&descAlignY=60&descSize=17&descAlign=50&animation=fadeIn&descFontColor=a78bfa" width="100%"/>
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nagarjuna%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20AI%20%26%20ML%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
-
-<!-- Animated Typing Intro -->
+<!-- ANIMATED TYPEWRITER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+scalable+software+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices;AI+%2F+ML+%7C+Computer+Vision+%7C+NLP;Full-Stack+Developer+in+the+making+%F0%9F%94%A5;Intern+%40+Tap+Academy+%E2%80%94+Bengaluru" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&lines=Building+scalable+systems+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+Microservices+%E2%9A%99%EF%B8%8F;Computer+Vision+%7C+ML+%7C+Predictive+Analytics+%F0%9F%A7%A0;Full-Stack+Engineer+in+progress+%F0%9F%94%A5;Intern+%40+Tap+Academy+%E2%80%94+Bengaluru+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<!-- PROFILE BADGES ROW -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarjuna-m-)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArjunaNagarjuna)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagarjunam2arjuna@gmail.com)
+[![Location](https://img.shields.io/badge/Bengaluru%2C%20India-%23FF6B35.svg?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagarjuna%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarjuna-m-)
-[![GitHub](https://img.shields.io/badge/GitHub-ArjunaNagarjuna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArjunaNagarjuna)
-[![Location](https://img.shields.io/badge/Bengaluru-India-FF6B35?style=for-the-badge&logo=google-maps&logoColor=white)](#)
-[![CGPA](https://img.shields.io/badge/CGPA-8.4%20%2F%2010-6EE7B7?style=for-the-badge&logo=academia&logoColor=white)](#)
-
-<br/>
+<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArjunaNagarjuna/ArjunaNagarjuna/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArjunaNagarjuna/ArjunaNagarjuna/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ArjunaNagarjuna/ArjunaNagarjuna/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+</picture>
 
 </div>
 
@@ -24,21 +35,21 @@
 
 <br/>
 
-## ⚡ About Me
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="290" alt="developer at work"/>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" alt="coding gif"/>
+## 🧑‍💻 About Me
 
-I'm a **Software Developer Intern at Tap Academy**, Bengaluru — building real-world skills in Java, Full-Stack Development, and AI/ML systems.
+I'm **Nagarjuna M**, a Software Developer Intern at **Tap Academy, Bengaluru** — engineering production-ready skills across Java, Full-Stack Development, and AI/ML systems.
 
-Currently pursuing **B.E. in Artificial Intelligence & Machine Learning** at HKBK College of Engineering, I bridge the gap between software engineering fundamentals and modern intelligent systems.
+Pursuing **B.E. in Artificial Intelligence & Machine Learning** at HKBK College of Engineering *(CGPA: 8.4)*, I combine academic depth with hands-on engineering to build systems that solve real problems.
 
-I don't just study technology — I build with it.
-
-- 🔭 Working on **microservices**, **REST APIs**, and **SaaS architectures**
-- 🧠 Deeply interested in **computer vision**, **predictive analytics**, and **LLM tooling**
-- 🏗️ Focused on writing clean, scalable, and maintainable code
-- 📈 Goal: Become a well-rounded **Software Engineer** who ships production-grade systems
-- 📍 Based in **Bengaluru, India**
+```text
+📌  Currently      →  Software Developer Intern @ Tap Academy
+🎯  Engineering    →  Java · REST APIs · Microservices · SaaS
+🧠  Researching    →  Computer Vision · Predictive Analytics · LLMs
+🏗️  Building       →  Scalable backends + intelligent applications
+📍  Location       →  Bengaluru, Karnataka, India
+```
 
 <br clear="right"/>
 
@@ -46,40 +57,46 @@ I don't just study technology — I build with it.
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Arsenal
 
 <div align="center">
 
-### Languages
+**Languages**
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Database
+**Database**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**AI / Machine Learning**
+
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
+**Architecture & Concepts**
 
-### Concepts
 ![OOP](https://img.shields.io/badge/OOP-6C3483?style=for-the-badge&logo=buffer&logoColor=white)
 ![DSA](https://img.shields.io/badge/Data%20Structures-2C3E50?style=for-the-badge&logo=leetcode&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-1ABC9C?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
 
 </div>
 
@@ -89,23 +106,30 @@ I don't just study technology — I build with it.
 
 ## 💼 Work Experience
 
-<div align="left">
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://img.shields.io/badge/NOW-00C896?style=for-the-badge" alt="current"/>
+</td>
+<td>
 
-### 🏢 Tap Academy — Software Developer Intern
-`Bengaluru, India` &nbsp;·&nbsp; `Current`
+### Software Developer Intern — Tap Academy
+`Bengaluru, India` &nbsp;&nbsp; `2024 – Present`
 
-> *Intensive engineering internship covering the full spectrum of modern software development.*
+Intensive engineering program covering the complete lifecycle of modern software development.
 
-| Area | What I'm Building |
+| Domain | Focus Areas |
 |---|---|
-| **Full-Stack Development** | End-to-end web applications with frontend and backend integration |
-| **Java Engineering** | Core Java, OOP patterns, and backend logic |
-| **REST APIs** | Designing and consuming RESTful services |
-| **Microservices** | Architecture principles and service decomposition |
-| **SaaS Concepts** | Multi-tenant application patterns |
-| **Problem Solving** | Coding challenges and technical assessments |
+| **Java Engineering** | Core Java, OOP patterns, backend logic |
+| **Full-Stack Dev** | End-to-end web application architecture |
+| **REST APIs** | API design, integration, and consumption |
+| **Microservices** | Service decomposition, inter-service communication |
+| **SaaS Architecture** | Multi-tenant patterns and cloud-ready design |
+| **Problem Solving** | Coding assessments and algorithmic challenges |
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,58 +138,57 @@ I don't just study technology — I build with it.
 ## 🚀 Featured Projects
 
 <div align="center">
-
-<!-- Project 1 -->
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunaNagarjuna&repo=shramic-ai-assistant&theme=tokyonight&hide_border=true&border_radius=12" />
+<a href="https://github.com/ArjunaNagarjuna/shramic-ai-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunaNagarjuna&repo=shramic-ai-assistant&theme=tokyonight&hide_border=true&border_radius=10&title_color=a78bfa&icon_color=a78bfa" />
 </a>
-
 </div>
 
 <br/>
 
-### 📷 AI-Based Lost Object Detection Using CCTV
-> *Computer vision system for intelligent surveillance and object tracking*
+---
 
-An AI-powered surveillance solution that monitors live CCTV footage and flags objects left unattended — using computer vision and custom tracking logic.
+### 🎥 AI-Based Lost Object Detection Using CCTV
+> *Real-time computer vision surveillance system*
 
-**Key capabilities:**
-- 🎯 Real-time object detection and spatial tracking
-- 🔔 Automated alert generation on anomaly detection
-- 🤖 AI-driven surveillance with minimal false positives
-- 🏗️ Designed for scalable deployment in public infrastructure
+An intelligent monitoring solution that analyzes live CCTV footage to detect unattended objects — combining object tracking with automated alerting for public safety use cases.
 
-`Python` `OpenCV` `Computer Vision` `Object Detection` `AI`
+**Technical Highlights:**
+- 🎯 Real-time multi-object detection and spatial tracking across frames
+- 🔔 Automated anomaly-based alert generation
+- 🤖 Low false-positive AI pipeline optimized for surveillance accuracy
+- 🏗️ Architecture designed for scalable deployment
+
+`Python` &nbsp; `OpenCV` &nbsp; `Computer Vision` &nbsp; `Object Detection` &nbsp; `AI`
 
 ---
 
 ### 📊 Employee Salary Prediction
-> *ML-powered predictive analytics for workforce compensation modeling*
+> *ML-powered workforce compensation modeling*
 
-A machine learning application that predicts employee compensation using historical data, engineered features, and regression models — producing interpretable outputs for HR decision-making.
+A machine learning application that predicts employee salaries from historical HR data using engineered features and regression models — producing interpretable, actionable outputs.
 
-**Key capabilities:**
-- 🔬 End-to-end feature engineering pipeline
-- 📉 Multiple ML model comparison and selection
-- 📈 Prediction accuracy optimization
-- 💡 Explainable outputs for real-world use
+**Technical Highlights:**
+- 🔬 End-to-end feature engineering and preprocessing pipeline
+- 📈 Multi-model evaluation with performance benchmarking
+- 💡 Explainable prediction outputs designed for HR decision-making
+- 📉 Regularization and hyperparameter tuning for accuracy optimization
 
-`Python` `Scikit-Learn` `Pandas` `NumPy` `ML` `Regression`
+`Python` &nbsp; `Scikit-Learn` &nbsp; `Pandas` &nbsp; `NumPy` &nbsp; `Regression` &nbsp; `ML`
 
 ---
 
 ### 🤖 [Shramic AI Assistant](https://github.com/ArjunaNagarjuna/shramic-ai-assistant)
-> *Conversational AI assistant with intelligent automation capabilities*
+> *Intelligent conversational assistant with automation capabilities*
 
-A purpose-built AI assistant that handles user queries, automates repetitive workflows, and integrates conversational intelligence into practical applications.
+A purpose-built AI assistant designed to handle user queries, automate repetitive workflows, and deliver conversational intelligence through a modular, extensible architecture.
 
-**Key capabilities:**
-- 💬 Natural language understanding and response generation
-- 🔄 User workflow automation
-- 🧩 Modular AI integration architecture
-- 🖥️ Clean conversational interface
+**Technical Highlights:**
+- 💬 Natural language understanding and context-aware response generation
+- 🔄 Workflow automation with configurable triggers
+- 🧩 Modular AI integration layer for extensibility
+- 🖥️ Clean, responsive conversational interface
 
-`Python` `AI` `NLP` `Conversational AI` `Automation`
+`Python` &nbsp; `NLP` &nbsp; `Conversational AI` &nbsp; `Automation` &nbsp; `AI Integration`
 
 ---
 
@@ -175,16 +198,16 @@ A purpose-built AI assistant that handles user queries, automates repetitive wor
 
 <div align="center">
 
-| Certification | Issuer |
-|---|---|
-| 🔷 Deloitte Data Analytics Job Simulation | Deloitte |
-| 🤖 Introduction to Machine Learning | NPTEL |
-| 📊 Data Visualization with Power BI | Microsoft |
-| 🔐 Introduction to Cybersecurity | Cisco |
-| 🧠 Prompt Engineering for ChatGPT | Coursera |
-| 📈 Data Analytics with R Programming | — |
-| ☕ Java Programming Fundamentals | — |
-| 🌐 Full Stack Development Training | Tap Academy |
+| Certification | Issuer | Domain |
+|---|---|---|
+| 🔷 Deloitte Data Analytics Job Simulation | **Forage × Deloitte** | Data Analytics |
+| 🤖 Introduction to Machine Learning | **NPTEL / IIT Madras** | AI & ML |
+| 📊 Data Visualization with Power BI | **Microsoft** | Business Intelligence |
+| 🔐 Introduction to Cybersecurity | **Cisco Networking Academy** | Security |
+| 🧠 Prompt Engineering for ChatGPT | **Coursera** | AI / LLMs |
+| 📈 Data Analytics with R Programming | **HKBK College of Engineering** | Data Analytics |
+| ☕ Java Programming Fundamentals | **Infosys Springboard** | Software Engineering |
+| 🌐 Full Stack Development Training | **Tap Academy** | Full-Stack Dev |
 
 </div>
 
@@ -192,22 +215,21 @@ A purpose-built AI assistant that handles user queries, automates repetitive wor
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunaNagarjuna&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunaNagarjuna&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ArjunaNagarjuna&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&rank_icon=github&title_color=a78bfa&icon_color=a78bfa" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunaNagarjuna&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&title_color=a78bfa" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunaNagarjuna&theme=tokyonight&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunaNagarjuna&theme=tokyonight&hide_border=true&border_radius=10&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="65%"/>
 
 <br/><br/>
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunaNagarjuna&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunaNagarjuna&theme=tokyo-night&hide_border=true&radius=10&area=true&area_color=a78bfa&line=a78bfa&point=ffffff" width="92%"/>
 
 </div>
 
@@ -215,27 +237,29 @@ A purpose-built AI assistant that handles user queries, automates repetitive wor
 
 <br/>
 
-## 📬 Let's Connect
+## 📬 Let's Build Something Together
 
 <div align="center">
 
-*I'm open to internship opportunities, collaborative projects, and engineering conversations.*
+*Open to internship opportunities, collaborative projects, and meaningful engineering conversations.*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagarjuna-m-)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagarjunam2arjuna@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArjunaNagarjuna)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 <br/><br/>
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=ArjunaNagarjuna&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ArjunaNagarjuna&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
 <br/>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
+<!-- ANIMATED FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,40:2d1b69,70:1a1a3e,100:0a0a1a&height=130&section=footer" width="100%"/>
