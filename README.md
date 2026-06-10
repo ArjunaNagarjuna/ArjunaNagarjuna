@@ -18,51 +18,56 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=ArjunaNagarjuna&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Java%20Developer-ED8B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-203A43?style=for-the-badge" />
+</p>
 <!-- ============================ ABOUT ============================ -->
 ##  ⟡  About Me
 
-##  ⟡  About Me
+class NagarjunaM {
 
-```javascript
-const Nagarjuna = {
-    role: "Software Developer Intern @ Tap Academy",
-    location: "Bengaluru, India",
+    constructor() {
+        this.role = "Software Developer Intern @ Tap Academy";
+        this.location = "Bengaluru, India";
 
-    education: {
-        degree: "B.E. Artificial Intelligence & Machine Learning",
-        cgpa: "8.4"
-    },
+        this.education = {
+            degree: "B.E. Artificial Intelligence & Machine Learning",
+            cgpa: "8.4"
+        };
 
-    skills: [
-        "Java",
-        "SQL",
-        "Python",
-        "HTML",
-        "CSS",
-        "JavaScript"
-    ],
+        this.techStack = [
+            "Java",
+            "Python",
+            "SQL",
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ];
 
-    interests: [
-        "Full-Stack Development",
-        "Machine Learning",
-        "AI Applications"
-    ],
+        this.interests = [
+            "Full-Stack Development",
+            "Machine Learning",
+            "AI Applications"
+        ];
 
-    currentlyLearning: [
-        "Advanced Java",
-        "System Design",
-        "REST APIs"
-    ],
+        this.currentlyLearning = [
+            "Advanced Java",
+            "System Design",
+            "REST APIs"
+        ];
+    }
 
-    goal: "Build intelligent software that creates real-world impact"
-};
-```
+    getGoal() {
+        return "Build scalable software products and intelligent AI systems";
+    }
+}
 
-> Turning ideas into practical software solutions through **Java Development**, **Artificial Intelligence**, and **Full-Stack Engineering**.
+const developer = new NagarjunaM();
 
-```
-```
+Passionate about transforming ideas into real-world software products through Java Development, Artificial Intelligence, and Full-Stack Engineering.
 
 
 <!-- ============================ TECH STACK ============================ -->
