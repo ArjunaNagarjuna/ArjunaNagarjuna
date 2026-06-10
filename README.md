@@ -134,33 +134,96 @@ public class NagarjunaM {
 ## &nbsp;⟡&nbsp; Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ AI Theft Alerts — CCTV Surveillance</h3>
-      <p>AI-powered surveillance that detects suspicious activity in real time, with object detection, multi-object tracking, and ownership/transfer analysis. Auto-generates visual & audio alerts on a live Streamlit dashboard.</p>
-      <p><code>Python</code> <code>YOLO</code> <code>Deep SORT</code> <code>Streamlit</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Employee Salary Prediction</h3>
-      <p>ML model predicting employee salaries with <b>87% accuracy</b>. Compared Linear Regression, SVR & Random Forest with feature engineering and hyperparameter tuning — cutting manual estimation effort by <b>40%</b>. Deployed for real-time predictions.</p>
-      <p><code>Python</code> <code>Scikit-Learn</code> <code>Pandas</code> <code>NumPy</code> <code>Streamlit</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/ArjunaNagarjuna/shramic-ai-assistant">Shramic AI Assistant</a></h3>
-      <p>Conversational AI assistant that automates user support and interactions through natural-language understanding and intelligent responses.</p>
-      <p><code>Python</code> <code>Conversational AI</code> <code>AI Integration</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Library Management System</h3>
-      <p>Full-stack system automating book issue/return and user management with authentication, CRUD operations, and admin control on a scalable architecture.</p>
-      <p><code>Django</code> <code>MySQL</code> <code>Python</code></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/ArjunaNagarjuna/Theft-alerts-using-cctv-surveillance">
+🛡️ AI Theft Alerts — CCTV Surveillance
+</a>
+</h3>
+
+<p>
+AI-powered surveillance system designed to detect suspicious activities in real time using intelligent object detection, multi-object tracking, and ownership analysis. Integrated automated visual and audio alerts through a live monitoring dashboard.
+</p>
+
+<p>
+<code>Python</code>
+<code>YOLO</code>
+<code>Deep SORT</code>
+<code>Streamlit</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/ArjunaNagarjuna/capstone-project">
+📈 Employee Salary Prediction
+</a>
+</h3>
+
+<p>
+Machine Learning application that predicts employee salaries with <b>87% accuracy</b>. Implemented feature engineering, model comparison, and optimization techniques that reduced manual estimation effort by <b>40%</b>.
+</p>
+
+<p>
+<code>Python</code>
+<code>Scikit-Learn</code>
+<code>Pandas</code>
+<code>NumPy</code>
+<code>Streamlit</code>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>
+<a href="https://github.com/ArjunaNagarjuna/shramic-ai-assistant">
+🤖 Shramic AI Assistant
+</a>
+</h3>
+
+<p>
+AI-powered support assistant developed to answer company-related queries, automate user interactions, and provide intelligent responses through conversational workflows and information retrieval.
+</p>
+
+<p>
+<code>Python</code>
+<code>Conversational AI</code>
+<code>Automation</code>
+<code>AI Integration</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<h3>
+🚀 Building What's Next
+</h3>
+
+<p>
+Currently developing advanced Java, Full-Stack, and AI-powered applications focused on solving real-world challenges and delivering measurable impact.
+</p>
+
+<p>
+<code>Java</code>
+<code>Full-Stack</code>
+<code>AI/ML</code>
+<code>Spring Boot</code>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
+
 
 <!-- ============================ CERTIFICATIONS ============================ -->
 ## &nbsp;⟡&nbsp; Certifications
