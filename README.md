@@ -20,20 +20,46 @@
 </p>
 
 <!-- ============================ ABOUT ============================ -->
-## &nbsp;⟡&nbsp; About Me
+##  ⟡  About Me
 
-```yaml
-name:        Nagarjuna M
-role:        Software Developer Intern @ Tap Academy
-location:    Bengaluru, India
-education:   B.E. — Artificial Intelligence & Machine Learning (CGPA 8.4)
-focus:       Java Development · Full-Stack Engineering · Applied Machine Learning
-mindset:     Continuous Learner · Problem Solver · Product Builder
+```javascript
+const Nagarjuna = {
+    role: "Software Developer Intern @ Tap Academy",
+    location: "Bengaluru, India",
+
+    education: {
+        degree: "B.E. Artificial Intelligence & Machine Learning",
+        cgpa: "8.4"
+    },
+
+    skills: [
+        "Java",
+        "SQL",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+
+    interests: [
+        "Full-Stack Development",
+        "Machine Learning",
+        "AI Applications"
+    ],
+
+    currentlyLearning: [
+        "Advanced Java",
+        "System Design",
+        "REST APIs"
+    ],
+
+    goal: "Build intelligent software that creates real-world impact"
+};
 ```
 
-> Software engineer with a strong foundation in **Java**, **Full-Stack Development**, and **Machine Learning**. I build practical software that solves real problems — from intelligent surveillance systems to predictive ML models — and I sharpen my craft through hands-on projects, internships, and shipping working products. My goal: become an engineer who builds **scalable applications and intelligent systems**.
+> Turning ideas into practical software solutions through **Java Development**, **Artificial Intelligence**, and **Full-Stack Engineering**.
 
----
+```
 
 <!-- ============================ TECH STACK ============================ -->
 ## &nbsp;⟡&nbsp; Tech Stack
