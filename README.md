@@ -22,6 +22,8 @@
 <!-- ============================ ABOUT ============================ -->
 ##  ⟡  About Me
 
+##  ⟡  About Me
+
 ```javascript
 const Nagarjuna = {
     role: "Software Developer Intern @ Tap Academy",
@@ -60,6 +62,8 @@ const Nagarjuna = {
 > Turning ideas into practical software solutions through **Java Development**, **Artificial Intelligence**, and **Full-Stack Engineering**.
 
 ```
+```
+
 
 <!-- ============================ TECH STACK ============================ -->
 ## &nbsp;⟡&nbsp; Tech Stack
