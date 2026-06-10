@@ -28,37 +28,16 @@
 
 ## About Me
 
-```java
-public class NagarjunaM {
+* Software Developer Intern at **Tap Academy**
+* Pursuing a B.E. in **Artificial Intelligence & Machine Learning**
+* Strong foundation in **Java Development**, **Python**, **SQL**, **Data Structures**, and **Problem Solving**
+* Building **Full-Stack**, **Machine Learning**, and **AI-powered** applications
+* Passionate about developing software that solves real-world challenges
+* Currently expanding expertise in **Advanced Java**, **REST APIs**, and **System Design**
+* Experienced in turning ideas into practical solutions through projects, internships, and continuous learning
+* Focused on creating scalable, efficient, and impactful software products
 
-    private final String role =
-        "Software Developer Intern @ Tap Academy";
-
-    private final String location =
-        "Bengaluru, India";
-
-    private final String education =
-        "B.E. Artificial Intelligence & Machine Learning (CGPA: 8.4)";
-
-    private final String[] skills = {
-        "Java", "Python", "SQL",
-        "HTML", "CSS", "JavaScript"
-    };
-
-    private final String[] interests = {
-        "Full-Stack Development",
-        "Machine Learning",
-        "AI Applications"
-    };
-
-    public String goal() {
-        return "Build scalable software products and intelligent AI systems";
-    }
-}
-```
-
->  Passionate about transforming ideas into real-world software products through **Java Development**, **Artificial Intelligence**, and **Full-Stack Engineering**.
-
+**Career Goal:** To build intelligent software systems and scalable applications that create meaningful real-world impact.
 
 
 <!-- ============================ TECH STACK ============================ -->
